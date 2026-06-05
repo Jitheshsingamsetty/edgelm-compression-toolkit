@@ -1,0 +1,2 @@
+Base Model,Fine Tuning Method,LoRA Rank,LoRA Alpha,Trainable Parameters,Training Loss,Validation Loss,Quantization,Original Model Size MB,Compressed Model Size MB,Compression Ratio,Storage Reduction,Pruning Method,Pruned Weights,MMLU Retention,Target Hardware,Deployment Time Before,Deployment Time After
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,QLoRA,8,16,0.42%,1.84,1.91,INT4,13500,940,14.36x,93.04%,Magnitude Pruning,28%,97.1%,Snapdragon 8 Gen 3,3 days,Under 4 hours

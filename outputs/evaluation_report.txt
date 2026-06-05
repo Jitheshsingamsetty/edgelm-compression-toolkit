@@ -1,0 +1,21 @@
+EdgeLM Compression Evaluation Report
+=============================================
+
+Base Model: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+Fine Tuning Method: QLoRA
+LoRA Rank: 8
+LoRA Alpha: 16
+Trainable Parameters: 0.42%
+Training Loss: 1.84
+Validation Loss: 1.91
+Quantization: INT4
+Original Model Size MB: 13500
+Compressed Model Size MB: 940
+Compression Ratio: 14.36x
+Storage Reduction: 93.04%
+Pruning Method: Magnitude Pruning
+Pruned Weights: 28%
+MMLU Retention: 97.1%
+Target Hardware: Snapdragon 8 Gen 3
+Deployment Time Before: 3 days
+Deployment Time After: Under 4 hours

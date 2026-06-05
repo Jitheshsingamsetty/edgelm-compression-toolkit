@@ -1,0 +1,5 @@
+Explain what on-device AI means.
+Summarize the benefits of model quantization.
+What is QLoRA in simple terms?
+How does pruning reduce model size?
+Why is ONNX useful for deployment?

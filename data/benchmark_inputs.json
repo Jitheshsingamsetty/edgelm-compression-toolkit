@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Explain model compression in simple words.",
+    "tokens": 64
+  },
+  {
+    "prompt": "What is INT4 quantization?",
+    "tokens": 80
+  },
+  {
+    "prompt": "Why deploy LLMs on edge devices?",
+    "tokens": 96
+  }
+]

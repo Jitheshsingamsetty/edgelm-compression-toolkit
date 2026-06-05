@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+outputs/logs/
+models/base_model/
+models/compressed_model/
+models/lora_adapter/
+models/onnx/*.onnx
+.wandb/

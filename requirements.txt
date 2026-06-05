@@ -1,0 +1,11 @@
+torch
+transformers
+peft
+onnx
+onnxruntime
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+wandb

@@ -1,0 +1,5 @@
+Backend,Latency_ms,Memory_MB,Throughput_tokens_sec,MMLU_Retention
+PyTorch FP16,92.4,1850,18.5,97.1
+ONNX Runtime,54.8,1260,31.2,97.1
+TensorRT,31.6,980,48.7,97.1
+Snapdragon 8 Gen 3,43.2,940,39.4,97.1
